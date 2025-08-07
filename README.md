@@ -29,7 +29,7 @@ todo-list/
 1. Clone this repository:
 git clone https://github.com/your-username/todo-list.git
 
-#🧠 What I Learned
+## 🧠 What I Learned
 Handling user input with JavaScript
 
 Dynamically creating and modifying HTML elements
@@ -38,10 +38,10 @@ Using event listeners and basic logic
 
 Managing state in a small app without any backend
 
-📸 Preview
+## 📸 Preview
 <img width="523" height="274" alt="image" src="https://github.com/user-attachments/assets/123d01a5-6941-4bf7-acc0-502b5cfa007c" />
 
-📝 License
+## 📝 License
 This project is for learning and personal use only.
 
 
