@@ -29,7 +29,7 @@ todo-list/
 1. Clone this repository:
 git clone https://github.com/your-username/todo-list.git
 
-🧠 What I Learned
+#🧠 What I Learned
 Handling user input with JavaScript
 
 Dynamically creating and modifying HTML elements
